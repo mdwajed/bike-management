@@ -1,5 +1,6 @@
 import { Customer } from "@prisma/client";
 import { prisma } from "../../../shared/prisma";
+
 type ICustomer = {
   name: string;
   email: string;
