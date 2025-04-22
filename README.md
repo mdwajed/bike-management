@@ -6,8 +6,7 @@ A RESTful API for managing bike customers, bikes, and service records with full 
 
 ## 🌐 Live Backend
 
-🔗 [https://bike-service-api.onrender.com](https://bike-service-api.onrender.com)  
-(_Replace with your actual hosted backend URL_)
+🔗 [ https://bike-omlw6i4lk-mdwajeds-projects.vercel.app]
 
 ---
 
@@ -27,7 +26,7 @@ A RESTful API for managing bike customers, bikes, and service records with full 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/bike-service-api.git
+git clone  https://github.com/mdwajed/bike-management.git
 cd bike-service-api
 2. Install Dependencies
 bash
